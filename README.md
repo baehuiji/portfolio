@@ -8,6 +8,5 @@
 * AI : 유한상태기계(FSM)와 유니티의 네비메쉬 기능을 사용하여 플레이어를 따라다니는 AI
 
 # 특징
-* 참여도: **100%**
 * 개발 Tool : Visual Studio, Unity
 * 사용 에셋 : DAVID DUNNINGS - Easy Outline 2.0
